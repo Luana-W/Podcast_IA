@@ -65,6 +65,8 @@ Nesse podcast chamado de "Gatopy: O Rugido da Revolução em Inteligência Artif
 
 ```- Não utilize siglas, como "IA", escreva os termos por completo```
 
+### * [Eleven Labs](https://elevenlabs.io/)
+Para a realização do text to speech;
 
 ### * [Lexica.art](https://lexica.art)
 
